@@ -1,4 +1,5 @@
 # WeatherApp2025
+
 🌦️ Weather App (Open-Meteo API)
 Project Overview
 This Weather App allows users to check the current weather for any city. It uses the Open-Meteo Geocoding API to find location coordinates and then fetches weather data using the Open-Meteo Weather Forecast API.
@@ -31,41 +32,6 @@ Future Improvements
 Add weather icons
 Improve design with CSS
 Store recent search history
-About
-Example submission of the capstone project involving the AI-SWE Weather App
-
-Resources
- Readme
- Activity
- Custom properties
-Stars
- 0 stars
-Watchers
- 0 watching
-Forks
- 0 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Languages
-JavaScript
-62.6%
- 
-HTML
-28.4%
- 
-CSS
-9.0%
-Footer
-© 2025 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-
-
 
      
       
